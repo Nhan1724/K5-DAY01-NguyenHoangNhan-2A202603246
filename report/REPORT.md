@@ -1,6 +1,6 @@
 # Báo cáo bài thực hành Ngày 1 – Đọc nhãn từ đầu ra YOLO11
 
-**Ngày chạy:**
+**Ngày chạy:** 06/11/2026
 
 **Runtime Colab:** T4-GPU
 
